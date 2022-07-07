@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Christopher McCarthy",
     author_email="chris.mccarthy20@protonmail.com",
-    description="A Python package to simulate casino games and operations.",
+    description="A Python package to simulate and analyse casino game play.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     classifiers=[
