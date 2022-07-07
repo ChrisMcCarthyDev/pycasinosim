@@ -16,7 +16,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=['pycasinosim'],
+    packages=["pycasinosim"],
     package_dir={"pycasinosim": "pycasinosim"},
     python_requires=">=3.6",
 )
